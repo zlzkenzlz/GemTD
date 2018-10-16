@@ -68,7 +68,7 @@
         "name": "Chipped",
         "range": 2,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 8,
         "damageMax": 9
@@ -77,7 +77,7 @@
         "name": "Flawed",
         "range": 2,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 30,
         "damageMin": 20,
         "damageMax": 25
@@ -86,7 +86,7 @@
         "name": "Normal",
         "range": 2,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 38,
         "damageMax": 45
@@ -95,7 +95,7 @@
         "name": "Flawless",
         "range": 2,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 58,
         "damageMax": 65
@@ -104,7 +104,7 @@
         "name": "Perfect",
         "range": 3,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 80,
         "damageMax": 100
@@ -113,7 +113,7 @@
         "name": "Great",
         "range": 3,
         "speed": 15,
-        "cdActiveSkill": 1,
+        "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 140,
         "damageMax": 140
