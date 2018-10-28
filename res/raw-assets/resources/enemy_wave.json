@@ -1,0 +1,47 @@
+[
+{
+  "Wave":1,
+   "details": 
+   {
+  "enemy_name":"Đám lính ghẻ",
+  "enmy_id": "creep_01",
+  "HP":100,
+  "armor": "a_pink",
+  "gold":1,
+  "moving_fly": false,
+  "amount":10,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":2,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_02",
+  "HP":300,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": true,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":3,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":600,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+}
+]
