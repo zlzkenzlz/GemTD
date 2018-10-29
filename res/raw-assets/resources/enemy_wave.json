@@ -5,7 +5,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "creep_01",
-  "HP":100,
+  "HP":80,
   "armor": "a_pink",
   "gold":1,
   "moving_fly": false,
@@ -20,7 +20,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_02",
-  "HP":300,
+  "HP":120,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": true,
@@ -35,7 +35,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":600,
+  "HP":230,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
