@@ -5,7 +5,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "creep_01",
-  "HP":60,
+  "HP":10,
   "armor": "a_pink",
   "gold":1,
   "moving_fly": false,
@@ -20,7 +20,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_02",
-  "HP":90,
+  "HP":10,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": true,
@@ -35,7 +35,112 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":140,
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":4,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":5,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":6,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":7,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":8,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":9,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
+  "armor": "a_diamond",
+  "gold":1,
+  "moving_fly": false,
+  "amount":15,
+  "move_spd":30,
+  "gap":30
+   }
+},
+{
+  "Wave":10,
+   "details": 
+   {
+  "enemy_name":"Đám lính hơi ghẻ",
+  "enmy_id": "creep_03",
+  "HP":10,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
