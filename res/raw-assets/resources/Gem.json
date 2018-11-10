@@ -200,7 +200,8 @@
         "costUpgrade": 20,
         "damageMin": 5,
         "damageMax": 8,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       },
       {
         "name": "Flawed",
@@ -210,7 +211,8 @@
         "costUpgrade": 30,
         "damageMin": 10,
         "damageMax": 14,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       },
       {
         "name": "Normal",
@@ -220,7 +222,8 @@
         "costUpgrade": 20,
         "damageMin": 16,
         "damageMax": 22,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       },
       {
         "name": "Flawless",
@@ -230,7 +233,8 @@
         "costUpgrade": 20,
         "damageMin": 30,
         "damageMax": 40,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       },
       {
         "name": "Perfect",
@@ -240,7 +244,8 @@
         "costUpgrade": 20,
         "damageMin": 60,
         "damageMax": 80,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       },
       {
         "name": "Great",
@@ -250,7 +255,8 @@
         "costUpgrade": 20,
         "damageMin": 200,
         "damageMax": 250,
-        "slow": 30
+        "slow": 30,
+        "timeActive": 5
       }
     ]
   },
