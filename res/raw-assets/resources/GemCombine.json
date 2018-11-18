@@ -1,0 +1,356 @@
+{
+  "ListGemCombine": [
+    {
+      "Name": "Sliver",
+      "Level": [
+        {
+          "name": "Sliver",
+          "range": 3,
+          "speed": 20,
+          "costUpgrade": 25,
+          "typeAttack": "both",
+          "damageMin": 20,
+          "damageMax": 21,
+          "slow": 30,
+          "splashTile": 2,
+          "timeActive" : 5
+        },
+        {
+          "name": "Sterling Silver",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 290,
+          "typeAttack": "both",
+          "damageMin": 40,
+          "damageMax": 40,
+          "slow": 30,
+          "splashTile": 2,
+          "timeActive" : 5
+        },
+        {
+          "name": "Silver Knight",
+          "range": 5,
+          "speed": 20,
+          "costUpgrade": -1,
+          "damageMin": 150,
+          "damageMax": 150,
+          "typeAttack": "both",
+          "slow": 30,
+          "splashTile": 2,
+          "timeActive" : 5
+        }
+      ]
+    },{
+      "Name": "Yellow Sapphire",
+      "Level": [
+        {
+          "name": "Yellow Sapphire",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 180,
+          "typeAttack": "both",
+          "damageMin": 100,
+          "damageMax": 100,
+          "slow": 30,
+          "splashTile": 3,
+          "timeActive" : 5
+        },
+        {
+          "name": "Star Yelow Sapphire",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 180,
+          "damageMax": 180,
+          "slow": 30,
+          "splashTile": 3,
+          "timeActive" : 5,
+          "rangeIncre" : 9,
+          "increaseDMG" : 5
+        }
+      ]
+    },
+    {
+      "Name": "Star Ruby",
+      "Level": [
+        {
+          "name": "Star Ruby",
+          "range": 2,
+          "speed": 30,
+          "costUpgrade": 30,
+          "typeAttack": "both",
+          "damageMin": 0,
+          "damageMax": 0,
+          "slow": 0,
+          "dpsTile": 2,
+          "damageDps": 44
+        },
+        {
+          "name": "Blood Star",
+          "range": 2,
+          "speed": 30,
+          "costUpgrade": 290,
+          "typeAttack": "both",
+          "damageMin": 0,
+          "damageMax": 0,
+          "slow": 0,
+          "dpsTile": 3,
+          "damageDps": 55
+        },
+        {
+          "name": "Fire Star",
+          "range": 3,
+          "speed": 15,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 65,
+          "damageMax": 65,
+          "slow": 0,
+          "dpsTile": 3,
+          "damageDps": 65
+        }
+      ]
+    },
+    {
+      "Name": "Dark Emerald",
+      "Level": [
+        {
+          "name": "Dark Emerald",
+          "range": 3,
+          "speed": 20,
+          "costUpgrade": 225,
+          "typeAttack": "both",
+          "damageMin": 90,
+          "damageMax": 150,
+          "slow": 0,
+          "chanceStun" : 12.5,
+          "stun": 1.5,
+          "chanceCrit" : 0,
+          "critDamage": 0
+        },
+        {
+          "name": "Enchanted Emerald",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 100,
+          "damageMax": 200,
+          "slow": 0,
+          "chanceStun" : 12.5,
+          "stun": 1.5,
+          "chanceCrit" : 15,
+          "critDamage": 4
+        }
+      ]
+    },
+    {
+      "Name": "Malachite",
+      "Level": [
+        {
+          "name": "Malachite",
+          "range": 3,
+          "speed": 15,
+          "costUpgrade": 25,
+          "typeAttack": "both",
+          "damageMin": 6,
+          "damageMax": 6,
+          "slow": 0,
+          "critDamage": 0
+        },
+        {
+          "name": "Mid Malachite",
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": 280,
+          "typeAttack": "both",
+          "damageMin": 11,
+          "damageMax": 11,
+          "slow": 0,
+          "critDamage": 0
+        },
+        {
+          "name": "Mighty Malachite",
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 45,
+          "damageMax": 45,
+          "slow": 0,
+          "critDamage": 0
+        }
+      ]
+    },
+    {
+      "Name": "Jade",
+      "Level": [
+        {
+          "name": "Jade",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 45,
+          "typeAttack": "both",
+          "damageMin": 30,
+          "damageMax": 35,
+          "slow": 50,
+          "timeActive": 2,
+          "damagePosion": 5
+        },
+        {
+          "name": "China Jade",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 250,
+          "typeAttack": "both",
+          "damageMin": 50,
+          "damageMax": 50,
+          "slow": 50,
+          "timeActive": 3,
+          "damagePosion": 10
+        },
+        {
+          "name": "Lucky China Jade",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 250,
+          "typeAttack": "both",
+          "damageMin": 55,
+          "damageMax": 55,
+          "slow": 50,
+          "timeActive": 4,
+          "damagePosion": 10
+        }
+      ]
+    },
+    {
+      "Name": "Black Opal",
+      "Level": [
+        {
+          "name": "Black Opal",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 275,
+          "typeAttack": "both",
+          "damageMin": 25,
+          "damageMax": 25,
+          "slow": 0,
+          "rangeIncre" : 8,
+          "increaseDMG" : 30
+        },
+        {
+          "name": "Mystic Black Opal",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 50,
+          "damageMax": 50,
+          "slow": 0,
+          "rangeIncre" : 9,
+          "increaseDMG" : 40
+        }
+      ]
+    },
+    {
+      "Name": "Pink Diamond",
+      "Level": [
+        {
+          "name": "Pink Diamond",
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": 275,
+          "typeAttack": "ground",
+          "damageMin": 150,
+          "damageMax": 175,
+          "slow": 0,
+          "chanceCrit" : 10,
+          "critDamage": 5
+        },
+        {
+          "name": "Great Pink Diamond",
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": -1,
+          "typeAttack": "ground",
+          "damageMin": 175,
+          "damageMax": 225,
+          "slow": 0,
+          "chanceCrit" : 10,
+          "critDamage": 8
+        }
+      ]
+    },
+    {
+      "Name": "Gold",
+      "Level": [
+        {
+          "name": "Gold",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 205,
+          "typeAttack": "air",
+          "damageMin": 160,
+          "damageMax": 190,
+          "slow": 0,
+          "chanceCrit" : 25,
+          "critDamage": 2
+        },
+        {
+          "name": "Egyptian Gold",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "air",
+          "damageMin": 160,
+          "damageMax": 190,
+          "slow": 0,
+          "chanceCrit" : 30,
+          "critDamage": 2
+        }
+      ]
+    },
+    {
+      "Name": "Red Crysta",
+      "Level": [
+        {
+          "name": "Red Crysta",
+          "range": 8,
+          "speed": 15,
+          "costUpgrade": 100,
+          "typeAttack": "air",
+          "damageMin": 50,
+          "damageMax": 75,
+          "slow": 0,
+          "dpsTile": 8,
+          "damageDps": 20
+        },
+        {
+          "name": "Red Facet",
+          "range": 9,
+          "speed": 15,
+          "costUpgrade": 150,
+          "typeAttack": "air",
+          "damageMin": 75,
+          "damageMax": 100,
+          "slow": 0,
+          "dpsTile": 9,
+          "damageDps": 50
+        },
+        {
+          "name": "Rose Quartz Crystal",
+          "range": 10,
+          "speed": 15,
+          "costUpgrade": -1,
+          "typeAttack": "air",
+          "damageMin": 100,
+          "damageMax": 125,
+          "slow": 0,
+          "dpsTile": 10,
+          "damageDps": 100
+        }
+      ]
+    }
+  ]
+}

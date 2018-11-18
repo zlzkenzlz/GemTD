@@ -9,7 +9,9 @@
         "costUpgrade": 20,
         "damageMin": 8,
         "damageMax": 12,
-        "critDamage" : 2
+        "chanceCrit" : 25,
+        "critDamage" : 2,
+        "typeAttack" : "ground"
       },
       {
         "name": "Flawed",
@@ -19,7 +21,9 @@
         "costUpgrade": 30,
         "damageMin": 16,
         "damageMax": 18,
-        "critDamage" : 2
+        "chanceCrit" : 25,
+        "critDamage" : 2,
+        "typeAttack" : "ground"
       },
       {
         "name": "Normal",
@@ -29,7 +33,9 @@
         "costUpgrade": 20,
         "damageMin": 30,
         "damageMax": 37,
-        "critDamage" : 2
+        "chanceCrit" : 25,
+        "critDamage" : 2,
+        "typeAttack" : "ground"
       },
       {
         "name": "Flawless",
@@ -38,7 +44,10 @@
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 58,
-        "damageMax": 65
+        "damageMax": 65,
+        "chanceCrit" : 25,
+        "critDamage" : 2,
+        "typeAttack" : "ground"
       },
       {
         "name": "Perfect",
@@ -48,7 +57,9 @@
         "costUpgrade": 20,
         "damageMin": 140,
         "damageMax": 150,
-        "critDamage" : 2
+        "chanceCrit" : 25,
+        "critDamage" : 2,
+        "typeAttack" : "ground"
       },
       {
         "name": "Great",
@@ -58,7 +69,9 @@
         "costUpgrade": 20,
         "damageMin": 300,
         "damageMax": 350,
-        "critDamage" : 5
+        "chanceCrit" : 25,
+        "critDamage" : 5,
+        "typeAttack" : "ground"
       }
     ]
   },
@@ -71,7 +84,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 8,
-        "damageMax": 9
+        "damageMax": 9,
+        "typeAttack" : "both",
+        "splashTile" : 2
       },
       {
         "name": "Flawed",
@@ -80,7 +95,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 30,
         "damageMin": 20,
-        "damageMax": 25
+        "damageMax": 25,
+        "typeAttack" : "both",
+        "splashTile" : 2
       },
       {
         "name": "Normal",
@@ -89,7 +106,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 38,
-        "damageMax": 45
+        "damageMax": 45,
+        "typeAttack" : "both",
+        "splashTile" : 2
       },
       {
         "name": "Flawless",
@@ -98,7 +117,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 58,
-        "damageMax": 65
+        "damageMax": 65,
+        "typeAttack" : "both",
+        "splashTile" : 2
       },
       {
         "name": "Perfect",
@@ -107,7 +128,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 80,
-        "damageMax": 100
+        "damageMax": 100,
+        "typeAttack" : "both",
+        "splashTile" : 2
       },
       {
         "name": "Great",
@@ -116,7 +139,9 @@
         "cdActiveSkill": 2,
         "costUpgrade": 20,
         "damageMin": 140,
-        "damageMax": 140
+        "damageMax": 140,
+        "typeAttack" : "both",
+        "splashTile" : 2
       }
     ]
   },
@@ -125,68 +150,74 @@
       {
         "name": "Chipped",
         "range": 2,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 5,
         "damageMax": 5,
         "increaseSDP" : 10,
-        "rangeIncre" :4
+        "rangeIncre" :4,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawed",
         "range": 2,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 30,
         "damageMin": 10,
         "damageMax": 10,
         "increaseSDP" : 15,
-        "rangeIncre" :4
+        "rangeIncre" :4,
+        "typeAttack" : "both"
       },
       {
         "name": "Normal",
         "range": 3,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 20,
         "damageMax": 20,
         "increaseSDP" : 20,
-        "rangeIncre" :5
+        "rangeIncre" :5,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawless",
         "range": 3,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 40,
         "damageMax": 40,
         "increaseSDP" : 25,
-        "rangeIncre" : 5
+        "rangeIncre" : 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Perfect",
         "range": 4,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 85,
         "damageMax": 85,
         "increaseSDP" : 35,
-        "rangeIncre" : 6
+        "rangeIncre" : 6,
+        "typeAttack" : "both"
       },
       {
         "name": "Great",
         "range": 5,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 180,
         "damageMax": 180,
         "increaseSDP" : 50,
-        "rangeIncre" : 9
+        "rangeIncre" : 9,
+        "typeAttack" : "both"
       }
     ]
   },
@@ -195,68 +226,74 @@
       {
         "name": "Chipped",
         "range": 2,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 5,
         "damageMax": 8,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawed",
         "range": 2,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 30,
         "damageMin": 10,
         "damageMax": 14,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Normal",
         "range": 2,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 16,
         "damageMax": 22,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawless",
         "range": 3,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 30,
         "damageMax": 40,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Perfect",
         "range": 3,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 60,
         "damageMax": 80,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Great",
         "range": 5,
-        "speed": 15,
+        "speed": 10,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 200,
         "damageMax": 250,
         "slow": 30,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       }
     ]
   },
@@ -264,57 +301,63 @@
     "level": [
       {
         "name": "Chipped",
-        "range": 2,
-        "speed": 15,
+        "range": 4,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 10,
-        "damageMax": 15
+        "damageMax": 15,
+        "typeAttack" : "air"
       },
       {
         "name": "Flawed",
-        "range": 2,
-        "speed": 15,
+        "range": 4,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 30,
         "damageMin": 20,
-        "damageMax": 27
+        "damageMax": 27,
+        "typeAttack" : "air"
       },
       {
         "name": "Normal",
-        "range": 2,
-        "speed": 15,
+        "range": 4,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 30,
-        "damageMax": 45
+        "damageMax": 45,
+        "typeAttack" : "air"
       },
       {
         "name": "Flawless",
-        "range": 2,
-        "speed": 15,
+        "range": 4,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 60,
-        "damageMax": 80
+        "damageMax": 80,
+        "typeAttack" : "air"
       },
       {
         "name": "Perfect",
-        "range": 3,
-        "speed": 15,
+        "range": 4,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 140,
-        "damageMax": 170
+        "damageMax": 170,
+        "typeAttack" : "air"
       },
       {
         "name": "Great",
-        "range": 3,
-        "speed": 15,
+        "range": 5,
+        "speed": 8,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 350,
-        "damageMax": 400
+        "damageMax": 400,
+        "typeAttack" : "both"
       }
     ]
   },
@@ -323,29 +366,32 @@
       {
         "name": "Chipped",
         "range": 2,
-        "speed": 15,
+        "speed": 20,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 4,
-        "damageMax": 4
+        "damageMax": 4,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawed",
         "range": 2,
-        "speed": 15,
+        "speed": 20,
         "cdActiveSkill": 1,
         "costUpgrade": 30,
         "damageMin": 8,
-        "damageMax": 8
+        "damageMax": 8,
+        "typeAttack" : "both"
       },
       {
         "name": "Normal",
         "range": 2,
-        "speed": 15,
+        "speed": 20,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 14,
-        "damageMax": 14
+        "damageMax": 14,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawless",
@@ -354,25 +400,28 @@
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 25,
-        "damageMax": 25
+        "damageMax": 25,
+        "typeAttack" : "both"
       },
       {
         "name": "Perfect",
         "range": 3,
-        "speed": 15,
+        "speed": 20,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 75,
-        "damageMax": 75
+        "damageMax": 75,
+        "typeAttack" : "both"
       },
       {
         "name": "Great",
         "range": 3,
-        "speed": 15,
+        "speed": 20,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 250,
-        "damageMax": 250
+        "damageMax": 250,
+        "typeAttack" : "both"
       }
     ]
   },
@@ -388,7 +437,8 @@
         "damageMax": 7,
         "damagePosion": 2,
         "slow": 15,
-        "timeActive": 3
+        "timeActive": 3,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawed",
@@ -400,7 +450,8 @@
         "damageMax": 13,
         "damagePosion": 3,
         "slow": 20,
-        "timeActive": 4
+        "timeActive": 4,
+        "typeAttack" : "both"
       },
       {
         "name": "Normal",
@@ -412,7 +463,8 @@
         "damageMax": 25,
         "damagePosion": 5,
         "slow": 25,
-        "timeActive": 5
+        "timeActive": 5,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawless",
@@ -424,7 +476,8 @@
         "damageMax": 37,
         "damagePosion": 8,
         "slow": 30,
-        "timeActive": 6
+        "timeActive": 6,
+        "typeAttack" : "both"
       },
       {
         "name": "Perfect",
@@ -436,7 +489,8 @@
         "damageMax": 95,
         "damagePosion": 16,
         "slow": 50,
-        "timeActive": 8
+        "timeActive": 8,
+        "typeAttack" : "both"
       },
       {
         "name": "Great",
@@ -448,7 +502,8 @@
         "damageMax": 275,
         "damagePosion": 50,
         "slow": 50,
-        "timeActive": 800
+        "timeActive": 800,
+        "typeAttack" : "both"
       }
     ]
   },
@@ -457,56 +512,62 @@
       {
         "name": "Chipped",
         "range": 2,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 6,
-        "damageMax": 8
+        "damageMax": 8,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawed",
         "range": 2,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 30,
         "damageMin": 12,
-        "damageMax": 15
+        "damageMax": 15,
+        "typeAttack" : "both"
       },
       {
         "name": "Normal",
         "range": 2,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 24,
-        "damageMax": 30
+        "damageMax": 30,
+        "typeAttack" : "both"
       },
       {
         "name": "Flawless",
         "range": 2,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 48,
-        "damageMax": 55
+        "damageMax": 55,
+        "typeAttack" : "both"
       },
       {
         "name": "Perfect",
         "range": 3,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 100,
-        "damageMax": 120
+        "damageMax": 120,
+        "typeAttack" : "both"
       },
       {
         "name": "Great",
         "range": 3,
-        "speed": 15,
+        "speed": 5,
         "cdActiveSkill": 1,
         "costUpgrade": 20,
         "damageMin": 250,
-        "damageMax": 250
+        "damageMax": 250,
+        "typeAttack" : "both"
       }
     ]
   }

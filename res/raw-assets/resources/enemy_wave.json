@@ -5,7 +5,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "creep_01",
-  "HP":20,
+  "HP":100,
   "armor": "a_pink",
   "gold":1,
   "moving_fly": false,
@@ -20,7 +20,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_02",
-  "HP":20,
+  "HP":150,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": true,
@@ -35,7 +35,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":20,
+  "HP":250,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
@@ -50,10 +50,10 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":20,
+  "HP":350,
   "armor": "a_diamond",
   "gold":1,
-  "moving_fly": false,
+  "moving_fly": true,
   "amount":15,
   "move_spd":30,
   "gap":30
@@ -65,7 +65,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":10,
+  "HP":200,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
@@ -80,7 +80,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":10,
+  "HP":200,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
@@ -95,7 +95,7 @@
    {
   "enemy_name":"Đám lính hơi ghẻ",
   "enmy_id": "creep_03",
-  "HP":10,
+  "HP":200,
   "armor": "a_diamond",
   "gold":1,
   "moving_fly": false,
