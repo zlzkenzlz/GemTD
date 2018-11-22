@@ -220,7 +220,11 @@
           "damageMax": 55,
           "slow": 50,
           "timeActive": 4,
-          "damagePosion": 10
+          "damagePosion": 10,
+          "stun" : 2,
+          "chanceStun" : 1,
+          "critDamage": 4,
+          "chanceCrit" : 1
         }
       ]
     },
@@ -349,6 +353,35 @@
           "slow": 0,
           "dpsTile": 10,
           "damageDps": 100
+        }
+      ]
+    },
+    {
+      "Name": "Paraiba Tourmaline",
+      "Level": [
+        {
+          "name": "Paraiba Tourmaline",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": 275,
+          "typeAttack": "both",
+          "damageMin": 10,
+          "damageMax": 400,
+          "slow": 0,
+          "rangeIncre" : 3,
+          "increaseDMG" : 10
+        },
+        {
+          "name": "Paraiba Tourmaline Facet",
+          "range": 4,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 30,
+          "damageMax": 420,
+          "slow": 0,
+          "rangeIncre" : 3,
+          "increaseDMG" : 20
         }
       ]
     }

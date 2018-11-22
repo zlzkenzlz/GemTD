@@ -5,7 +5,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "creep_01",
-  "HP":150,
+  "HP":200,
   "armor": "a_pink",
   "gold":1,
   "moving_fly": false,
