@@ -76,7 +76,7 @@
       "Level": [
         {
           "name": "Star Ruby",
-          "range": 2,
+          "range": 0,
           "speed": 30,
           "costUpgrade": 30,
           "typeAttack": "both",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Blood Star",
-          "range": 2,
+          "range": 0,
           "speed": 30,
           "costUpgrade": 290,
           "typeAttack": "both",
@@ -382,6 +382,37 @@
           "slow": 0,
           "rangeIncre" : 3,
           "increaseDMG" : 20
+        }
+      ]
+    },
+    {
+      "Name": "Blood Stone",
+      "Level": [
+        {
+          "name": "Blood Stone",
+          "range": 3,
+          "speed": 20,
+          "costUpgrade": 225,
+          "typeAttack": "both",
+          "damageMin": 115,
+          "damageMax": 155,
+          "slow": 0,
+          "dpsTile": 3,
+          "damageDps": 60,
+          "chanceCrit" : 0,
+          "critDamage": 1
+        },
+        {
+          "name": "Ancient Blood Stone",
+          "range": 3,
+          "speed": 20,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 160,
+          "damageMax": 240,
+          "slow": 0,
+          "chanceCrit" : 100,
+          "critDamage": 3.5
         }
       ]
     }
