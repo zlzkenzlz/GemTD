@@ -415,6 +415,38 @@
           "critDamage": 3.5
         }
       ]
+    },
+    {
+      "Name": "Uranium 238",
+      "Level": [
+        {
+          "name": "Uranium 238",
+          "range": 0,
+          "speed": 0,
+          "costUpgrade": 190,
+          "typeAttack": "both",
+          "damageMin": 0,
+          "damageMax": 0,
+          "slow": 50,
+          "timeActive": 1,
+          "burnTile": 3,
+          "damageDps": 200
+        },
+        {
+          "name": "Uranium 235",
+          "range": 5,
+          "speed": 15,
+          "costUpgrade": -1,
+          "typeAttack": "both",
+          "damageMin": 14,
+          "damageMax": 14,
+          "slow": 50,
+          "timeActive": 1,
+          "dpsTile": 4,
+          "burnTile": 3,
+          "damageDps": 70
+        }
+      ]
     }
   ]
 }
