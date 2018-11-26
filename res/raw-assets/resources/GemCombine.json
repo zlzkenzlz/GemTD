@@ -39,7 +39,15 @@
           "splashTile": 2,
           "timeActive" : 5
         }
+      ],
+      "arrmor": [
+      [
+        "blue"
+      ],
+      [
+        "1.75"
       ]
+    ]
     },{
       "Name": "Yellow Sapphire",
       "Level": [
@@ -69,7 +77,15 @@
           "rangeIncre" : 9,
           "increaseDMG" : 5
         }
+      ],
+      "arrmor": [
+      [
+        "blue"
+      ],
+      [
+        "1.75"
       ]
+    ]
     },
     {
       "Name": "Star Ruby",
@@ -110,7 +126,21 @@
           "dpsTile": 3,
           "damageDps": 65
         }
+      ],
+      "arrmor": [
+      [
+        "red",
+        "pink",
+        "blazed",
+        "green"
+      ],
+      [
+        "1.8",
+        "0.8",
+        "0.8",
+        "0.5"
       ]
+    ]
     },
     {
       "Name": "Dark Emerald",
@@ -143,7 +173,28 @@
           "chanceCrit" : 15,
           "critDamage": 4
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.5",
+        "0.7",
+        "1.7",
+        "0.7",
+        "0.7",
+        "0.7",
+        "0.7"
       ]
+    ]
+      
     },
     {
       "Name": "Malachite",
@@ -181,7 +232,27 @@
           "slow": 0,
           "critDamage": 0
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.5",
+        "0.7",
+        "1.7",
+        "0.7",
+        "0.7",
+        "0.7",
+        "0.7"
       ]
+    ]
     },
     {
       "Name": "Jade",
@@ -226,7 +297,27 @@
           "critDamage": 4,
           "chanceCrit" : 1
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0.8",
+        "0.7",
+        "0.4",
+        "1.9",
+        "0",
+        "0"
       ]
+    ]
     },
     {
       "Name": "Black Opal",
@@ -255,7 +346,27 @@
           "rangeIncre" : 9,
           "increaseDMG" : 40
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0.8",
+        "0.7",
+        "0.4",
+        "1.9",
+        "0",
+        "0"
       ]
+    ]
     },
     {
       "Name": "Pink Diamond",
@@ -284,7 +395,27 @@
           "chanceCrit" : 10,
           "critDamage": 8
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.2",
+        "1.6",
+        "0",
+        "0",
+        "0",
+        "1.2",
+        "0.6"
       ]
+    ]
     },
     {
       "Name": "Gold",
@@ -313,7 +444,27 @@
           "chanceCrit" : 30,
           "critDamage": 2
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.75",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8"
       ]
+    ]
     },
     {
       "Name": "Red Crysta",
@@ -354,7 +505,27 @@
           "dpsTile": 10,
           "damageDps": 100
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.75",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8"
       ]
+    ]
     },
     {
       "Name": "Paraiba Tourmaline",
@@ -383,7 +554,27 @@
           "rangeIncre" : 3,
           "increaseDMG" : 20
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0.8",
+        "0.7",
+        "0.4",
+        "1.9",
+        "0",
+        "0"
       ]
+    ]
     },
     {
       "Name": "Blood Stone",
@@ -414,7 +605,27 @@
           "chanceCrit" : 100,
           "critDamage": 3.5
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.8",
+        "0",
+        "0.5",
+        "0",
+        "0.8",
+        "1.8",
+        "0"
       ]
+    ]
     },
     {
       "Name": "Uranium 238",
@@ -446,7 +657,27 @@
           "burnTile": 3,
           "damageDps": 70
         }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.2",
+        "0.6",
+        "0.7",
+        "0",
+        "0",
+        "0.5",
+        "1.6"
       ]
+    ]
     }
   ]
 }
