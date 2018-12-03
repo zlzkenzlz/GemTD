@@ -1,0 +1,369 @@
+{
+  "ListSlateCombine": [
+    {
+      "Name": "Range Slate",
+      "Level": [
+        {
+          "range": 3,
+          "speed": 15,
+          "costUpgrade": 25,
+          "typeAttack": "both",
+          "damageMin": 15,
+          "damageMax": 15
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.8",
+        "0",
+        "0.5",
+        "0",
+        "0.8",
+        "1.8",
+        "0"
+      ]
+    ]
+    },
+    {
+      "Name": "Air Slate",
+      "Level": [
+        {
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 40,
+          "damageMax": 40
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.2",
+        "1.6",
+        "0",
+        "0",
+        "0",
+        "1.2",
+        "0.6"
+      ]
+    ]
+    },
+    {
+      "Name": "Damage Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 1,
+          "damageMax": 1
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.2",
+        "1.6",
+        "0",
+        "0",
+        "0",
+        "1.2",
+        "0.6"
+      ]
+    ]
+    },
+    {
+      "Name": "Viper Slate",
+      "Level": [
+        {
+          "range": 4,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 30,
+          "damageMax": 30
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.8",
+        "0",
+        "0.5",
+        "0",
+        "0.8",
+        "1.8",
+        "0"
+      ]
+    ]
+    },
+    {
+      "Name": "Opal Vein Slate",
+      "Level": [
+        {
+          "range": 1,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 80,
+          "damageMax": 80
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0.8",
+        "0.7",
+        "0.4",
+        "1.9",
+        "0",
+        "0"
+      ]
+    ]
+    },
+    {
+      "Name": "Poison Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 1,
+          "damageMax": 1,
+          "damagePosion": 20,
+          "timeActive": 20
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.5",
+        "0.7",
+        "1.7",
+        "0.7",
+        "0.7",
+        "0.7",
+        "0.7"
+      ]
+    ]
+    },
+    {
+      "Name": "Hold Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 1,
+          "damageMax": 1
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "1.2",
+        "0.6",
+        "0.7",
+        "0",
+        "0",
+        "0.5",
+        "1.6"
+      ]
+    ]
+    },
+    {
+      "Name": "Ancient Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 1,
+          "damageMax": 1
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.2",
+        "1.6",
+        "0",
+        "0",
+        "0",
+        "1.2",
+        "0.6"
+      ]
+    ]
+    },
+    {
+      "Name": "Slow Slate",
+      "Level": [
+        {
+          "range": 1,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 100,
+          "damageMax": 100
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0.8",
+        "0",
+        "0.5",
+        "0",
+        "0.8",
+        "1.8",
+        "0"
+      ]
+    ]
+    },
+    {
+      "Name": "Spell Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 30,
+          "damageMax": 40
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0.8",
+        "0.7",
+        "0.4",
+        "1.9",
+        "0",
+        "0"
+      ]
+    ]
+    },
+    {
+      "Name": "Elder Slate",
+      "Level": [
+        {
+          "range": 0,
+          "speed": 15,
+          "costUpgrade": 0,
+          "typeAttack": "both",
+          "damageMin": 100,
+          "damageMax": 100
+        }
+      ],
+      "arrmor": [
+      [
+        "pink",
+        "white",
+        "green",
+        "blue",
+        "blazed",
+        "red",
+        "yellow"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "1.75",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+    }
+  ]
+}

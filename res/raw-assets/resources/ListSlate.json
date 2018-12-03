@@ -1,0 +1,236 @@
+{
+  "CombineSlate": [
+    {
+      "Name": "Air Slate",
+      "List": [
+        [
+          "Amethyst",
+          ""
+        ],
+        [
+          [
+            "Emerald",
+            "Flawed"
+          ],
+          [
+            "Opal",
+            "Flawed"
+          ],
+          [
+            "Ruby",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Hold Slate",
+      "List": [
+        [
+          "Topaz",
+          ""
+        ],
+        [
+          [
+            "Amethyst",
+            "Flawed"
+          ],
+          [
+            "Sapphire",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Slow Slate",
+      "List": [
+        [
+          "Sapphire",
+          ""
+        ],
+        [
+          [
+            "Diamond",
+            "Flawed"
+          ],
+          [
+            "Emerald",
+            "Flawed"
+          ],
+          [
+            "Aquamarine",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Opal Vein Slate",
+      "List": [
+        [
+          "Opal",
+          ""
+        ],
+        [
+          [
+            "Topaz",
+            "Flawed"
+          ],
+          [
+            "Ruby",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Poison Slate",
+      "List": [
+        [
+          "Emerald",
+          ""
+        ],
+        [
+          [
+            "Topaz",
+            "Flawed"
+          ],
+          [
+            "Opal",
+            "Flawed"
+          ],
+          [
+            "Aquamarine",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Spell Slate",
+      "List": [
+        [
+          "Aquamarine",
+          ""
+        ],
+        [
+          [
+            "Diamond",
+            "Flawed"
+          ],
+          [
+            "Amethyst",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Range Slate",
+      "List": [
+        [
+          "Ruby",
+          ""
+        ],
+        [
+          [
+            "Topaz",
+            "Flawed"
+          ],
+          [
+            "Amethyst",
+            "Flawed"
+          ],
+          [
+            "Ruby",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Damage Slate",
+      "List": [
+        [
+          "Diamond",
+          ""
+        ],
+        [
+          [
+            "Sapphire",
+            "Flawed"
+          ],
+          [
+            "Opal",
+            "Flawed"
+          ],
+          [
+            "Ruby",
+            "Flawed"
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Ancient Slate",
+      "List": [
+        [
+          "Air Slate",
+          ""
+        ],
+        [
+          [
+            "Hold Slate",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Wraith Slate",
+      "List": [
+        [
+          "Slow Slate",
+          ""
+        ],
+        [
+          [
+            "Opal Vein Slate",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Elder Slate",
+      "List": [
+        [
+          "Poison Slate",
+          ""
+        ],
+        [
+          [
+            "Spell Slate",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "Name": "Viper Slate",
+      "List": [
+        [
+          " Range Slate",
+          ""
+        ],
+        [
+          [
+            "Damage Slate",
+            ""
+          ]
+        ]
+      ]
+    }
+  ]
+}

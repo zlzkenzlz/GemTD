@@ -5,7 +5,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "01",
-  "HP":10,
+  "HP":90,
   "armor": "yellow",
   "gold":1,
   "moving_fly": false,
@@ -21,7 +21,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "02",
-  "HP":30,
+  "HP":100,
   "armor": "blazed",
   "gold":1,
   "moving_fly": false,
@@ -37,7 +37,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "03",
-  "HP":55,
+  "HP":300,
   "armor": "white",
   "gold":1,
   "moving_fly": false,
@@ -53,7 +53,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "03",
-  "HP":70,
+  "HP":400,
   "armor": "pink",
   "gold":2,
   "moving_fly": true,
@@ -69,7 +69,7 @@
    {
   "enemy_name":"Đám lính ghẻ",
   "enmy_id": "03",
-  "HP":90,
+  "HP":900,
   "armor": "green",
   "gold":1,
   "moving_fly": false,
